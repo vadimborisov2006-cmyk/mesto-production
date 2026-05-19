@@ -26,9 +26,3 @@ git clone https://github.com/vadimborisov2006-cmyk/mesto-ad
 ```bash
 npm install
 ```
-
-| Команда | Описание | 
-|---|---|
-| `npm run dev` | Запуск локального сервера разработки |
-| `npm run build` | Сборка проекта в папку `dist` |
-| `npm run deploy` | Сборка и публикация на GitHub Pages |
